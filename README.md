@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Backend+%26+Systems+Engineer;Cybersecurity+Enthusiast;DevOps+%26+Infrastructure;Clean+Architecture+%7C+Secure+Systems;Node.js+%7C+Docker+%7C+Linux+%7C+C+%7C+Haskell" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Backend+%26+Systems+Engineer;Cybersecurity+Enthusiast;DevOps+%26+Infrastructure;Secure+%7C+Scalable+%7C+Production+Ready" />
 </h1>
 
 <p align="center">
@@ -26,36 +26,40 @@
 
 ---
 
-# 🧠 About Me
+#  Live Terminal
 
-```diff
-+ 🎓 EPITECH Student — Expertise Informatique
-+ 💻 Full Stack Developer
-+ 🔐 Cybersecurity & Pentesting Enthusiast
-+ 🐳 DevOps & Linux Systems Engineer
-+ 🌍 Based in Cotonou, Benin
-```
-
-I build **secure, scalable and production-ready systems**.  
-Focused on backend architecture, automation and infrastructure engineering.
-
-🌐 Portfolio → https://noge.me  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=00FF41&width=700&lines=$+whoami;james.gbetchedji;$+role;Full+Stack+Developer;$+focus;Backend+%26+Systems;$+security_status;active;$+deployments;production+ready;$+location;Cotonou,+Benin" />
+</p>
 
 ---
 
-# 💼 Current Position
+#  About
+
+```
++ EPITECH Student — Expertise Informatique
++ Full Stack Developer
++ Cybersecurity & Pentesting Enthusiast
++ DevOps & Linux Systems Engineer
+```
+
+I build secure and scalable infrastructures combining backend architecture, automation and system engineering.
+
+---
+
+#  Current Position
 
 ## Fullstack Developer & DevOps  
-**Le Rond Point Class** — 02/2025 - Present  
+Le Rond Point Class — 02/2025 - Present  
 
 • Web & mobile development  
 • Event ticket tracking infrastructure  
-• Deployment architecture & DevOps  
 • Backend & system optimization  
+• Deployment architecture  
 
 ---
 
-# ⚙️ Animated Tech Stack
+#  Tech Stack
 
 <h3 align="center">Languages</h3>
 
@@ -83,11 +87,11 @@ Focused on backend architecture, automation and infrastructure engineering.
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nogebeat&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogebeat&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nogebeat&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogebeat&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
 </p>
 
 ---
@@ -100,7 +104,27 @@ Focused on backend architecture, automation and infrastructure engineering.
 
 ---
 
-# 🐍 Contribution Snake
+#  Live System Status
+
+```
+System Architecture:        Operational
+Backend Services:           Running
+API Endpoints:              Stable
+Security Layer:             Active
+DevOps Pipeline:            Deployed
+Infrastructure Monitoring:  Enabled
+Status:                     ONLINE
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System-ONLINE-00FF41?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Security-ACTIVE-00FF41?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Infrastructure-STABLE-00FF41?style=for-the-badge"/>
+</p>
+
+---
+
+#  Contribution Snake
 
 <p align="center">
   <img src="https://github.com/nogebeat/nogebeat/blob/output/github-contribution-grid-snake.svg"/>
@@ -108,18 +132,11 @@ Focused on backend architecture, automation and infrastructure engineering.
 
 ---
 
-# 🌍 Languages
+#  GitHub Trophies
 
-🇫🇷 French — Professional  
-🇬🇧 English — Intermediate  
-
----
-
-# 🎧 Interests
-
-🎵 Beatmaking & DJing  
-📚 Manga & Reading  
-💻 Systems Engineering & Cybersecurity  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nogebeat&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
