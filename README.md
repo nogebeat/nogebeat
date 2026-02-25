@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Salut, moi c’est Noge
+
+💻 Développeur Full Stack  
+🚀 Passionné par la cybersécurité et le web  
+📍 Basé au Bénin  
+
+## 🛠️ Tech Stack
+- Node.js
+- React / Next.js
+- MySQL / PostgreSQL
+- Docker
+
+## 📊 Stats GitHub
