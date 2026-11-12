@@ -90,8 +90,8 @@ Le Rond Point Class — 02/2025 - Present
 #  GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nogebeat&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogebeat&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
+  <img height="165" src="https://gh-readme-stats.vercel.app/api?username=nogebeat&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true"/>
+  <img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=nogebeat&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
 </p>
 
 ---
@@ -99,7 +99,7 @@ Le Rond Point Class — 02/2025 - Present
 # 📈 Contribution Matrix
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nogebeat&theme=react-dark&hide_border=true&area=true&color=00ff41"/>
+  <img src="https://gh-readme-activity-graph.vercel.app/graph?username=nogebeat&theme=react-dark&hide_border=true&area=true&color=00ff41"/>
 </p>
 
 ---
