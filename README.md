@@ -12,7 +12,7 @@
   <a href="https://noge.me">
     <img src="https://img.shields.io/badge/Portfolio-noge.me-000000?style=for-the-badge&logo=firefox&logoColor=00FF41"/>
   </a>
-  <a href="mailto:contact-me@noge.me">
+  <a href="mailto:contact.me@noge.me">
     <img src="https://img.shields.io/badge/Email-contact--me@noge.me-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
   </a>
   <a href="https://github.com/nogebeat">
